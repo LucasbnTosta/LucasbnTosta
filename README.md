@@ -3,15 +3,10 @@
 **`Desenvolvedor FullStack`**
 
 Olá! Meu nome é Lucas Tosta, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta.
-
 Sou apaixonado por tecnologia e estou constantemente em busca de novos conhecimentos para evoluir como desenvolvedor. Tenho interesse especial em desenvolvimento web, lógica de programação e tudo que envolve a construção de soluções eficientes e criativas através do código.
-
 Este espaço no GitHub é onde compartilho meus projetos, estudos, experimentos e aprendizados ao longo da minha jornada na área da tecnologia.
-
 Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!
-
 ---
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
