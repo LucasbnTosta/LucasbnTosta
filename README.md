@@ -1,7 +1,11 @@
 # 👩🏻‍💻 Lucas Tosta
 
 **`Desenvolvedora FullStack`**
+Olá! Meu nome é Lucas Tosta, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta.
 
+Sou apaixonado por tecnologia e estou sempre aprendendo para crescer como desenvolvedor.
+
+Aqui você encontra meus projetos e estudos. Sinta-se à vontade para explorar e entrar em contato!
 
 ---
 
