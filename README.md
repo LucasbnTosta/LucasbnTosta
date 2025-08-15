@@ -49,13 +49,7 @@ Aqui você encontra meus projetos e estudos. Sinta-se à vontade para explorar e
 ### 📊 Estatísticas
 
 <p>
- <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasbnTosta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasbnTosta&show_icons=true&theme=tokyonight&include_all_commits=true&count=true&count_private=true"/>
 
 
 <img 
