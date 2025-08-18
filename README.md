@@ -50,6 +50,5 @@ Aqui você encontra meus projetos e estudos. Sinta-se à vontade para explorar e
 
 <div>
      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasbnTosta&show_icons=true&theme=dark&include_all_commits=true&count=true&count_private=true"/>
-    
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasbnTosta&layout=compact&langs_count=16&theme=dark"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasbnTosta&layout=compact&langs_count=16&theme=dark"/>
 </div>
