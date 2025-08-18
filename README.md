@@ -53,6 +53,3 @@ Aqui você encontra meus projetos e estudos. Sinta-se à vontade para explorar e
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasbnTosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&include_all_commits=true" height="150" alt="languages graph"  />
 </div>
 
-<picture>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasbnTosta/LucasbnTosta/output/pacman-contribution-graph-dark.svg">
-</picture>
