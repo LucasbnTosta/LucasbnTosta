@@ -49,7 +49,9 @@ Aqui você encontra meus projetos e estudos. Sinta-se à vontade para explorar e
 ### 📊 Estatísticas
 
 <div>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasbnTosta&show_icons=true&theme=tokyonight&include_all_commits=true&count=true&count_private=true"/>
-    
- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasbnTosta&layout=compact&langs_count=16&theme=tokyonight"/>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabricioGMV/FabricioGMV/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabricioGMV/FabricioGMV/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FabricioGMV/FabricioGMV/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
