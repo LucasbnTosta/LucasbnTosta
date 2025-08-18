@@ -49,7 +49,5 @@ Aqui você encontra meus projetos e estudos. Sinta-se à vontade para explorar e
 ### 📊 Estatísticas
 
 <div>
-<picture align="center">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasbnTosta/LucasbnTosta/output/pacman-contribution-graph-dark.svg">
-</picture>
+
 </div>
