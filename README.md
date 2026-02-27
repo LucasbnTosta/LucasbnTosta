@@ -40,7 +40,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor FullStack apaixonado por tecnologi
 Aqui estão alguns dos meus projetos principais. Para ver mais, visite meus [repositórios](https://github.com/LucasbnTosta?tab=repositories).
 
 <!-- Adicione seus projetos principais aqui -->
-- 🔗 [Projeto 1](link-do-repo(https://github.com/impacta-gb/ap1-backend-fastapi-jesus)) - Projeto da disciplina de Desenvolvimento Backend usando FastAPI. Esta versão implementa gerenciamento de Jogador e adiciona recursos de Grupo, Partida e Ranking conforme o diagrama em Imagem_referencia/Jogo.drawio.
+- 🔗 [Projeto 1](https://github.com/impacta-gb/ap1-backend-fastapi-jesus)Projeto da disciplina de Desenvolvimento Backend usando FastAPI. Esta versão implementa gerenciamento de Jogador e adiciona recursos de Grupo, Partida e Ranking conforme o diagrama em Imagem_referencia/Jogo.drawio.
 - 🔗 [Projeto 2](link-do-repo) - Breve descrição
 - 🔗 [Projeto 3](link-do-repo) - Breve descrição
 
