@@ -40,7 +40,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor FullStack apaixonado por tecnologi
 Aqui estão alguns dos meus projetos principais. Para ver mais, visite meus [repositórios](https://github.com/LucasbnTosta?tab=repositories).
 
 <!-- Adicione seus projetos principais aqui -->
-- 🔗 [Projeto 1](link-do-repo)
+- 🔗 [Projeto 1](https://github.com/impacta-gb/ap1-backend-fastapi-jesus.git)
 - 🔗 [Projeto 2](link-do-repo) - Breve descrição
 - 🔗 [Projeto 3](link-do-repo) - Breve descrição
 
