@@ -35,15 +35,6 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor FullStack apaixonado por tecnologi
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasbnTosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lucas stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasbnTosta&layout=compact&theme=tokyonight&langs_count=6" alt="Lucas languages" />
-</div>
-
----
-
 ## 📂 Projetos em Destaque
 
 Aqui estão alguns dos meus projetos principais. Para ver mais, visite meus [repositórios](https://github.com/LucasbnTosta?tab=repositories).
